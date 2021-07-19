@@ -16,7 +16,7 @@ With **/etfu unfreeze area** you can unfreeze all the entities that are in an de
 You can also use **/etfu unfreeze player**, which will unfreeze all entities near to a player that you specify.
 > Example: **/etfu unfreeze player cascaseno** would unfreeze all entities that are near to me (in this case).
 
-With **/etfu unfreeze player *** or **/etfu unfreeze player all** you can do the same for all the online players.
+With **/etfu unfreeze player** or **/etfu unfreeze player all** you can do the same for all the online players.
 > This will get all the near entities loaded by all the online players and unfreeze them.
 
 - Command **/etfu freeze**
