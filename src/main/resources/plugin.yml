@@ -2,7 +2,7 @@ name: ETFUnfreezer
 main: net.unserversinley.etfunfreezer.Main
 version: 1.0.0
 author: Cascaseno
-api-version: 1.17
+api-version: 1.18
 description: Fix frozen entities after removing EntityTrackerFixer.
 commands:
   etfu:
